@@ -1,0 +1,43 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.upload-section {
+    margin-bottom: 20px;
+}
+
+.media-list {
+    margin-top: 30px;
+}
+
+.media-thumbnail {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
